@@ -1,0 +1,25 @@
+body { 
+   
+    background-color:rgb(194, 191, 186) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h1 { font-size:30px ;
+       text-align: center;
+       color:whitesmoke;
+    }
+    .alma {
+         color:black(197, 206, 89) ;
+          font-size: 20px;
+          text-align: center;
+          font-family: Helvetica;    
+    }
+.wrapper {
+    width: 300px;
+    height: 80px;
+    padding: 40px;
+    background-color: rgb(74, 71, 62);
+    color: azure;
+}
+.mama {
+    padding-bottom: 5px;
+}
